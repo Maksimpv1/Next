@@ -1,0 +1,8 @@
+{
+  "name": "Next-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Maksimpv1/Next.git",
+  "author": "Maksim noyt <maksimpv1@bk.ru>",
+  "license": "MIT"
+}
